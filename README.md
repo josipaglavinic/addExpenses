@@ -35,7 +35,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-## Design
-![expenses](https://user-images.githubusercontent.com/75853323/146762198-dd3521d5-fa3f-4d48-9c77-6d0712d0362a.PNG)
-
-
