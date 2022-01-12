@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br />
+A simple ReactApp for tracking expenses. 
+
+## Design
+![expenses](https://user-images.githubusercontent.com/75853323/146762198-dd3521d5-fa3f-4d48-9c77-6d0712d0362a.PNG)
 
 ## Available Scripts
 
